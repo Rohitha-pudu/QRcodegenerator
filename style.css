@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(1, 1, 12);
+}
+
+h1{
+    text-align: center;
+    color:antiquewhite;
+    padding:4%;
+}
+h3,h4{
+    text-align:center;
+    color:darkgrey;
+}
+#title1{
+   padding:3% 43%;
+   
+}
+#select{
+    width:250px;
+    height:40px;
+}
+#title2{
+    padding:0% 43%;
+}
+#last{
+    padding:3% 46%;  
+     
+}
+textarea{
+    background-color:rgb(38, 139, 84);
+    resize:none;
+    
+    border:2px solid;
+    border-radius: 6px;
+}
+#select{
+    background-color:rgb(38, 139, 84);
+    border:2px solid;
+    border-radius: 6px;
+}
+#select:hover{
+    color:blanchedalmond
+}
+#ro{
+   text-align:right;
+}
+.b2{
+    background-color:rgb(204, 73, 17);
+}
+
+.que{
+    background-color:white;
+}
+.a{
+    color:black;
+}
+.j{
+    background-color: black;
+    color:white;
+}
