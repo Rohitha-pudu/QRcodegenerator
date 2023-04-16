@@ -63,12 +63,7 @@ textarea{
     background-color: black;
     color:white;
 }
-@media only screen and (max-width: 620px) {
-    /* For mobile phones: */
-  #title1, {
-      text-align:center;
-    }
-  }
+
 
   #myimg{
     margin-bottom:20px;
